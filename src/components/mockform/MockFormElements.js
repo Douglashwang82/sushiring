@@ -5,24 +5,21 @@ import Button from 'react-bootstrap/Button';
 export const Container = styled.div`
     color: white;
     position:absolute;
-    top:0;
-    left:0;
-    height:70%;
-    width:20%;
-    margin-left: 10%;
-    margin-top:10%;
+    // border:solid;
+    width:30%;
+    top:50%;
+    left:30%;
 `
 
 export const Title = styled.h1`
 border:solid;
 text-align:center;
 position:relative;
-top:30%;
+min-width:300px;
+
 `
 
 export const Btn = styled(Button)`
 color:white;
-position:relative;
-top:30%;
 width:100%;
 `

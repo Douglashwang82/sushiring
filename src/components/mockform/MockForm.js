@@ -12,7 +12,7 @@ export const MockForm = () =>
             <Container>
                 <Title>SU SHI RING
                 </Title>
-                <Btn variant="dark">Get One</Btn>
+                {/* <Btn variant="dark">Get One</Btn> */}
             </Container>
             </>
             )
