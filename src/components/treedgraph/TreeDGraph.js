@@ -8,6 +8,5 @@ export default function TreeDGraph() {
       {/* <Spline scene="https://prod.spline.design/CQlC05AmiCRZhF8p/scene.spline" /> */}
       <Spline scene="https://prod.spline.design/CQlC05AmiCRZhF8p/scene.spline" />
 
-
       </div>);
 }
