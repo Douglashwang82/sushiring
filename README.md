@@ -3,4 +3,4 @@
 It is a chinese meme means "confort zone".
 
 
-![Su-shi ring!](/src/ring.PNG")
+![Su-shi ring!]("./src/ring.PNG")
